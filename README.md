@@ -26,4 +26,5 @@ Instructions
 
 5. Your production settings now go exclusively inside **settings_prod.py**. Change what you need there. Everything that is global is still inside **settings.py**.
 
+---
 Brunno Vodola - bvodola@gmail.com
