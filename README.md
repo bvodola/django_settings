@@ -2,7 +2,7 @@
 
 This is my approach to the django development/production settings issue.
 
-Instructions
+##Instructions
 
 1. Clone this repo
 
@@ -26,5 +26,5 @@ Instructions
 
 5. Your production settings now go exclusively inside **settings_prod.py**. Change what you need there. Everything that is global is still inside **settings.py**.
 
----
+## Contact
 Brunno Vodola - bvodola@gmail.com
