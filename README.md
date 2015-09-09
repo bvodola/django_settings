@@ -25,3 +25,5 @@ Instructions
 4. Inside **settings_env.py**, fill both DEV_HOST and PROD_HOST
 
 5. Your production settings now go exclusively inside **settings_prod.py**. Change what you need there. Everything that is global is still inside **settings.py**.
+
+Brunno Vodola - bvodola@gmail.com
